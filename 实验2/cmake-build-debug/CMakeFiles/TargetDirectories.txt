@@ -1,3 +1,0 @@
-D:/Programs/WQ/实验2/cmake-build-debug/CMakeFiles/2.dir
-D:/Programs/WQ/实验2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programs/WQ/实验2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
